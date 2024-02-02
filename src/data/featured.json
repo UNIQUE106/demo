@@ -1,0 +1,75 @@
+{
+    "featured": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "category": "Fresh Produce",
+        "price": 1.99,
+        "image": "images/apple-3.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "category": "Fresh Produce",
+        "price": 0.79,
+        "image": "images/banana.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Tomato",
+        "category": "Fresh Produce",
+        "price": 1.79,
+        "image": "images/tomato-1.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Carrot",
+        "category": "Fresh Produce",
+        "price": 0.99,
+        "image": "images/carrot-1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Spinach",
+        "category": "Fresh Produce",
+        "price": 1.29,
+        "image": "images/spinach-1.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Broccoli",
+        "category": "Fresh Produce",
+        "price": 1.49,
+        "image": "images/brocolli-1.webp"
+      },
+      {
+        "id": 7,
+        "name": "Orange",
+        "category": "Fresh Produce",
+        "price": 1.29,
+        "image": "images/oranges-1.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Grapes",
+        "category": "Fresh Produce",
+        "price": 2.49,
+        "image": "images/grapes-1.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Cucumber",
+        "category": "Fresh Produce",
+        "price": 0.89,
+        "image": "images/cucumber-1.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Bell Pepper",
+        "category": "Fresh Produce",
+        "price": 2.29,
+        "image": "images/bell-pepper-1.jpg"
+      }
+    ]
+  }
+  

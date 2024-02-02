@@ -1,0 +1,28 @@
+.active__nav {
+    border-bottom: 2px solid rgba(5, 106, 5, 0.874);
+}
+
+swiper-container::part(button-prev) {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 50%;
+    color: white;
+}
+swiper-container::part(button-next) {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    padding: 10px;    
+    border-radius: 50%;
+    color: white;
+}
+
+main {
+    min-height: calc(100vh - 70px);
+}
+
+footer {
+    height: 350px;
+}

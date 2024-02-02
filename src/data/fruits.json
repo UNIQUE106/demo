@@ -1,0 +1,144 @@
+{
+    "fruits": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "category": "Fresh Produce",
+            "price": 1.99,
+            "image": "images/apple-3.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "category": "Fresh Produce",
+            "price": 0.79,
+            "image": "images/banana.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Orange",
+            "category": "Fresh Produce",
+            "price": 1.29,
+            "image": "images/oranges-1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Grapes",
+            "category": "Fresh Produce",
+            "price": 2.49,
+            "image": "images/raspberries-1.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Strawberry",
+            "category": "Fresh Produce",
+            "price": 3.99,
+            "image": "images/strawberry-1.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Pineapple",
+            "category": "Fresh Produce",
+            "price": 2.99,
+            "image": "images/pineapple-2.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Mango",
+            "category": "Fresh Produce",
+            "price": 1.89,
+            "image": "images/mango-1.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Watermelon",
+            "category": "Fresh Produce",
+            "price": 4.99,
+            "image": "images/watermelon-1.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Cherry",
+            "category": "Fresh Produce",
+            "price": 2.79,
+            "image": "images/cherry-1.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Kiwi",
+            "category": "Fresh Produce",
+            "price": 1.49,
+            "image": "images/kiwi-1.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Pear",
+            "category": "Fresh Produce",
+            "price": 2.29,
+            "image": "images/avocado-1.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Grapefruit",
+            "category": "Fresh Produce",
+            "price": 1.79,
+            "image": "images/grapefruit-1.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Blueberry",
+            "category": "Fresh Produce",
+            "price": 3.49,
+            "image": "images/blueberry-1.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Raspberry",
+            "category": "Fresh Produce",
+            "price": 4.49,
+            "image": "images/raspberries-1.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Peach",
+            "category": "Fresh Produce",
+            "price": 2.69,
+            "image": "images/peach-1.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Cantaloupe",
+            "category": "Fresh Produce",
+            "price": 3.29,
+            "image": "images/cantaloupe-1.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Plum",
+            "category": "Fresh Produce",
+            "price": 2.09,
+            "image": "images/plum-1.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Apricot",
+            "category": "Fresh Produce",
+            "price": 1.99,
+            "image": "apricot_image_url"
+        },
+        {
+            "id": 19,
+            "name": "Nectarine",
+            "category": "Fresh Produce",
+            "price": 2.39,
+            "image": "nectarine_image_url"
+        },
+        {
+            "id": 20,
+            "name": "Blackberry",
+            "category": "Fresh Produce",
+            "price": 3.79,
+            "image": "blackberry_image_url"
+        }
+    ]
+}

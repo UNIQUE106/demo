@@ -1,0 +1,145 @@
+{
+    "vegetables": [
+      {
+        "id": 1,
+        "name": "Carrot",
+        "category": "Fresh Produce",
+        "price": 0.99,
+        "image": "images/carrot-2.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Broccoli",
+        "category": "Fresh Produce",
+        "price": 1.49,
+        "image": "images/brocolli-2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Spinach",
+        "category": "Fresh Produce",
+        "price": 1.29,
+        "image": "images/spinach-2.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Tomato",
+        "category": "Fresh Produce",
+        "price": 1.79,
+        "image": "images/tomato-3.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Cucumber",
+        "category": "Fresh Produce",
+        "price": 0.89,
+        "image": "images/cucumber-2.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Bell Pepper",
+        "category": "Fresh Produce",
+        "price": 2.29,
+        "image": "bell_pepper_image_url"
+      },
+      {
+        "id": 7,
+        "name": "Zucchini",
+        "category": "Fresh Produce",
+        "price": 1.99,
+        "image": "zucchini_image_url"
+      },
+      {
+        "id": 8,
+        "name": "Onion",
+        "category": "Fresh Produce",
+        "price": 0.79,
+        "image": "onion_image_url"
+      },
+      {
+        "id": 9,
+        "name": "Potato",
+        "category": "Fresh Produce",
+        "price": 1.09,
+        "image": "potato_image_url"
+      },
+      {
+        "id": 10,
+        "name": "Lettuce",
+        "category": "Fresh Produce",
+        "price": 1.69,
+        "image": "lettuce_image_url"
+      },
+      {
+        "id": 11,
+        "name": "Cabbage",
+        "category": "Fresh Produce",
+        "price": 1.39,
+        "image": "cabbage_image_url"
+      },
+      {
+        "id": 12,
+        "name": "Cauliflower",
+        "category": "Fresh Produce",
+        "price": 1.89,
+        "image": "cauliflower_image_url"
+      },
+      {
+        "id": 13,
+        "name": "Sweet Potato",
+        "category": "Fresh Produce",
+        "price": 1.59,
+        "image": "sweet_potato_image_url"
+      },
+      {
+        "id": 14,
+        "name": "Garlic",
+        "category": "Fresh Produce",
+        "price": 1.29,
+        "image": "garlic_image_url"
+      },
+      {
+        "id": 15,
+        "name": "Asparagus",
+        "category": "Fresh Produce",
+        "price": 2.49,
+        "image": "asparagus_image_url"
+      },
+      {
+        "id": 16,
+        "name": "Mushroom",
+        "category": "Fresh Produce",
+        "price": 2.79,
+        "image": "mushroom_image_url"
+      },
+      {
+        "id": 17,
+        "name": "Eggplant",
+        "category": "Fresh Produce",
+        "price": 1.79,
+        "image": "eggplant_image_url"
+      },
+      {
+        "id": 18,
+        "name": "Beetroot",
+        "category": "Fresh Produce",
+        "price": 1.99,
+        "image": "beetroot_image_url"
+      },
+      {
+        "id": 19,
+        "name": "Radish",
+        "category": "Fresh Produce",
+        "price": 0.99,
+        "image": "radish_image_url"
+      },
+      {
+        "id": 20,
+        "name": "Kale",
+        "category": "Fresh Produce",
+        "price": 2.99,
+        "image": "kale_image_url"
+      }
+    ]
+  }
+  
