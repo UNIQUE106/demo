@@ -1,5 +1,5 @@
 import ImgDiv from "../components/Details/ImgDiv"
-import InfoDiv from "../components/details/InfoDiv"
+import InfoDiv from "../components/Details/InfoDiv"
 import data from "../data/fullData.json"
 import { Link, useParams } from "react-router-dom"
 import { useEffect, useState } from "react"
