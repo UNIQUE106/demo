@@ -10,7 +10,7 @@ function HomeVeggies() {
           {
             data.vegetables.slice(0,4).map(item => {
                 return (
-                    <Card key={item.id} image={item.image} name={item.name} price={item.price}/>
+                  <Card key={item.id} image={item.image} name={item.name} price={item.price}/>
                 )
             })
           }

@@ -26,3 +26,25 @@ main {
 footer {
     height: 350px;
 }
+
+.cart__box {
+    animation: animate-pop 500ms cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
+.old__price {
+    text-decoration-line: line-through;
+    font-size: 0.9rem;
+    color: #1f0404;
+    font-weight: 600;
+}
+
+@keyframes animate-pop {
+    0% {
+      opacity: 0;
+      transform: scale(0.5, 0.5);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1, 1);
+    }
+  }

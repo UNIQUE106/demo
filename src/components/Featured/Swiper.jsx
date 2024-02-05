@@ -22,7 +22,7 @@ export default function Swiper({ items }) {
       {items.map((item) => {
         return (
           <swiper-slide lazy="true">
-            <Link to={`/store/${item.name}`}><Card key={item.id} image={item.image} name={item.name} price={item.price}/></Link>
+            <Card key={item.id} id={item.id} image={item.image} name={item.name} price={item.price}/>
           </swiper-slide>
         );
       })}

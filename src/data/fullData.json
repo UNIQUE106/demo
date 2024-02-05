@@ -1,0 +1,325 @@
+{
+    "full": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "category": "Fresh Produce",
+        "price": 1.99,
+        "image": "/images/apple-3.jpg",
+        "description": "Juicy and crisp apples, perfect for snacking or baking."
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "category": "Fresh Produce",
+        "price": 0.79,
+        "image": "/images/banana.jpg",
+        "description": "Sweet and nutritious bananas, a healthy snack option."
+      },
+      {
+        "id": 3,
+        "name": "Tomato",
+        "category": "Fresh Produce",
+        "price": 1.79,
+        "image": "/images/tomato-1.jpg",
+        "description": "Ripe and flavorful tomatoes, great for salads or cooking."
+      },
+      {
+        "id": 4,
+        "name": "Carrot",
+        "category": "Fresh Produce",
+        "price": 0.99,
+        "image": "/images/carrot-1.jpg",
+        "description": "Fresh and crunchy carrots, a versatile vegetable."
+      },
+      {
+        "id": 5,
+        "name": "Spinach",
+        "category": "Fresh Produce",
+        "price": 1.29,
+        "image": "/images/spinach-1.jpg",
+        "description": "Nutrient-packed spinach, ideal for salads and smoothies."
+      },
+      {
+        "id": 6,
+        "name": "Broccoli",
+        "category": "Fresh Produce",
+        "price": 1.49,
+        "image": "/images/brocolli-1.webp",
+        "description": "Fresh and vibrant broccoli, rich in vitamins and minerals."
+      },
+      {
+        "id": 7,
+        "name": "Orange",
+        "category": "Fresh Produce",
+        "price": 1.29,
+        "image": "/images/oranges-1.jpg",
+        "description": "Citrusy and sweet oranges, a refreshing fruit choice."
+      },
+      {
+        "id": 8,
+        "name": "Grapes",
+        "category": "Fresh Produce",
+        "price": 2.49,
+        "image": "/images/grapes-1.jpg",
+        "description": "Plump and succulent grapes, perfect for snacking."
+      },
+      {
+        "id": 9,
+        "name": "Cucumber",
+        "category": "Fresh Produce",
+        "price": 0.89,
+        "image": "/images/cucumber-1.jpg",
+        "description": "Cool and crisp cucumbers, great for salads or as a snack."
+      },
+      {
+        "id": 10,
+        "name": "Bell Pepper",
+        "category": "Fresh Produce",
+        "price": 2.29,
+        "image": "/images/bell-pepper-1.jpg",
+        "description": "Colorful bell peppers, versatile for cooking or raw consumption."
+      },
+      {
+        "id": 11,
+        "name": "Strawberry",
+        "category": "Fresh Produce",
+        "price": 3.99,
+        "image": "/images/strawberry-1.jpg",
+        "description": "Sweet and juicy strawberries, a delightful berry treat."
+      },
+      {
+        "id": 12,
+        "name": "Pineapple",
+        "category": "Fresh Produce",
+        "price": 2.99,
+        "image": "/images/pineapple-2.jpg",
+        "description": "Tropical and refreshing pineapples, perfect for snacking or cocktails."
+      },
+      {
+        "id": 13,
+        "name": "Mango",
+        "category": "Fresh Produce",
+        "price": 1.89,
+        "image": "/images/mango-1.jpg",
+        "description": "Sweet and aromatic mangoes, a tropical delight."
+      },
+      {
+        "id": 14,
+        "name": "Watermelon",
+        "category": "Fresh Produce",
+        "price": 4.99,
+        "image": "/images/watermelon-1.jpg",
+        "description": "Juicy and hydrating watermelons, perfect for hot days."
+      },
+      {
+        "id": 15,
+        "name": "Cherry",
+        "category": "Fresh Produce",
+        "price": 2.79,
+        "image": "/images/cherry-1.jpg",
+        "description": "Sweet and plump cherries, a delightful snack."
+      },
+      {
+        "id": 16,
+        "name": "Kiwi",
+        "category": "Fresh Produce",
+        "price": 1.49,
+        "image": "/images/kiwi-1.jpg",
+        "description": "Tangy and flavorful kiwis, rich in vitamins."
+      },
+      {
+        "id": 17,
+        "name": "Pear",
+        "category": "Fresh Produce",
+        "price": 2.29,
+        "image": "/images/avocado-1.jpg",
+        "description": "Sweet and juicy pears, a classic fruit choice."
+      },
+      {
+        "id": 18,
+        "name": "Grapefruit",
+        "category": "Fresh Produce",
+        "price": 1.79,
+        "image": "/images/grapefruit-1.jpg",
+        "description": "Citrusy and refreshing grapefruits, great for breakfast."
+      },
+      {
+        "id": 19,
+        "name": "Blueberry",
+        "category": "Fresh Produce",
+        "price": 3.49,
+        "image": "/images/blueberry-1.jpg",
+        "description": "Sweet and antioxidant-rich blueberries, perfect for snacking or baking."
+      },
+      {
+        "id": 20,
+        "name": "Raspberry",
+        "category": "Fresh Produce",
+        "price": 4.49,
+        "image": "/images/raspberries-1.jpg",
+        "description": "Plump and flavorful raspberries, ideal for desserts or smoothies."
+      },
+      {
+        "id": 21,
+        "name": "Peach",
+        "category": "Fresh Produce",
+        "price": 2.69,
+        "image": "/images/peach-1.jpg",
+        "description": "Juicy and fragrant peaches, a delightful summer fruit."
+      },
+      {
+        "id": 22,
+        "name": "Cantaloupe",
+        "category": "Fresh Produce",
+        "price": 3.29,
+        "image": "/images/cantaloupe-1.jpg",
+        "description": "Sweet and succulent cantaloupes, perfect for refreshing salads or desserts."
+      },
+      {
+        "id": 23,
+        "name": "Plum",
+        "category": "Fresh Produce",
+        "price": 2.09,
+        "image": "/images/plum-1.jpg",
+        "description": "Sweet and juicy plums, a delicious stone fruit."
+      },
+      {
+        "id": 24,
+        "name": "Apricot",
+        "category": "Fresh Produce",
+        "price": 1.99,
+        "image": "apricot_image_url",
+        "description": "Velvety and sweet apricots, a delightful summer treat."
+      },
+      {
+        "id": 25,
+        "name": "Nectarine",
+        "category": "Fresh Produce",
+        "price": 2.39,
+        "image": "nectarine_image_url",
+        "description": "Juicy and flavorful nectarines, perfect for snacking or desserts."
+      },
+      {
+        "id": 26,
+        "name": "Blackberry",
+        "category": "Fresh Produce",
+        "price": 3.79,
+        "image": "blackberry_image_url",
+        "description": "Plump and sweet blackberries, a delicious berry choice."
+      },
+      {
+        "id": 27,
+        "name": "Zucchini",
+        "category": "Fresh Produce",
+        "price": 1.99,
+        "image": "zucchini_image_url",
+        "description": "Versatile and nutritious zucchinis, ideal for various culinary creations."
+      },
+      {
+        "id": 28,
+        "name": "Onion",
+        "category": "Fresh Produce",
+        "price": 0.79,
+        "image": "onion_image_url",
+        "description": "A kitchen essential, onions add flavor to a wide range of dishes."
+      },
+      {
+        "id": 29,
+        "name": "Potato",
+        "category": "Fresh Produce",
+        "price": 1.09,
+        "image": "potato_image_url",
+        "description": "Versatile and hearty potatoes, perfect for various culinary applications."
+      },
+      {
+        "id": 30,
+        "name": "Lettuce",
+        "category": "Fresh Produce",
+        "price": 1.69,
+        "image": "lettuce_image_url",
+        "description": "Crisp and fresh lettuce, an essential ingredient for salads and sandwiches."
+      },
+      {
+        "id": 31,
+        "name": "Cabbage",
+        "category": "Fresh Produce",
+        "price": 1.39,
+        "image": "cabbage_image_url",
+        "description": "A versatile vegetable, cabbage is great for slaws, salads, and stir-fries."
+      },
+      {
+        "id": 32,
+        "name": "Cauliflower",
+        "category": "Fresh Produce",
+        "price": 1.89,
+        "image": "cauliflower_image_url",
+        "description": "Nutrient-rich cauliflower, perfect for roasting, mashing, or as a low-carb alternative."
+      },
+      {
+        "id": 33,
+        "name": "Sweet Potato",
+        "category": "Fresh Produce",
+        "price": 1.59,
+        "image": "sweet_potato_image_url",
+        "description": "Naturally sweet and nutritious sweet potatoes, a versatile and healthy option."
+      },
+      {
+        "id": 34,
+        "name": "Garlic",
+        "category": "Fresh Produce",
+        "price": 1.29,
+        "image": "garlic_image_url",
+        "description": "A staple in cooking, garlic adds aromatic flavor to a variety of dishes."
+      },
+      {
+        "id": 35,
+        "name": "Asparagus",
+        "category": "Fresh Produce",
+        "price": 2.49,
+        "image": "asparagus_image_url",
+        "description": "Tender and flavorful asparagus, a delicious and healthy vegetable."
+      },
+      {
+        "id": 36,
+        "name": "Mushroom",
+        "category": "Fresh Produce",
+        "price": 2.79,
+        "image": "mushroom_image_url",
+        "description": "Versatile and earthy mushrooms, great for various culinary dishes."
+      },
+      {
+        "id": 37,
+        "name": "Eggplant",
+        "category": "Fresh Produce",
+        "price": 1.79,
+        "image": "eggplant_image_url",
+        "description": "Mild and versatile eggplants, perfect for grilling, roasting, or sautéing."
+      },
+      {
+        "id": 38,
+        "name": "Beetroot",
+        "category": "Fresh Produce",
+        "price": 1.99,
+        "image": "beetroot_image_url",
+        "description": "Sweet and earthy beetroots, great for roasting, salads, or pickling."
+      },
+      {
+        "id": 39,
+        "name": "Radish",
+        "category": "Fresh Produce",
+        "price": 0.99,
+        "image": "radish_image_url",
+        "description": "Crunchy and peppery radishes, a refreshing addition to salads and snacks."
+      },
+      {
+        "id": 40,
+        "name": "Kale",
+        "category": "Fresh Produce",
+        "price": 2.99,
+        "image": "kale_image_url",
+        "description": "Nutrient-dense and hearty kale, perfect for salads, smoothies, or sautéing."
+      }
+    ]
+  }
+  
